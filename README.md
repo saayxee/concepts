@@ -1,2 +1,4 @@
-# concepts
-A collection of some concept designs I made.
+# 💡 Concepts
+
+Some concept designs I made, that looked presentable lol.
+
